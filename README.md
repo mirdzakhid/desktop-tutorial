@@ -1,5 +1,17 @@
-# Welcome to GitHub Desktop!
+____
+# Лаб. работа №02
+```
+    Выполнил Зейналов Мирджахид Фт-220007
+```
+:black_square_button: Лабораторная №1   
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Пользователь должен ввести 2 числа (например - a, b)
+Найти и показать на экран:
+Сумму этих чисел
+Разность этих чисел
+Произведение этих чисел
+Среднее арифметическое этих чисел
+Разность максимального и минимального по модулю = max(|a|,|b|) - min(|a|,|b|)  
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+##### Задание было выполнено на языке программирования Python
+
